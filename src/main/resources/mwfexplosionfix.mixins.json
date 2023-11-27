@@ -1,0 +1,14 @@
+{
+  "required": true,
+  "package": "com.zyao.mwfexplosionfix.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "mixins": [
+    "MixinNetworkHandler",
+    "MixinCommonEventHandler"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  },
+  "refmap": "mwfexplosionfix.mixin-refmap.json",
+  "minVersion": "0.8"
+}

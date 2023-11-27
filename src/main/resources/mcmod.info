@@ -1,0 +1,16 @@
+[
+{
+  "modid": "mwfexplosionfix",
+  "name": "ModularWarfarePacketExplosionFix",
+  "description": "mwfexplosion Fix mod.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["zyao"],
+  "credits": "The Forge and FML guys, for making this example",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
